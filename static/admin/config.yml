@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: GitMamut/blog-starter
+  repo: GitMamut/gatsby-blog-starter
 
 media_folder: content/assets
 public_folder: ../assets
