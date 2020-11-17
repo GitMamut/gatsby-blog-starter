@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
+    title: `Przemek's Starter Personal Blog`,
+    author: `Przemek`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://pandas.toborowicz.pl/`,
+    siteUrl: `https://blog.toborowicz.pl/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `PrzemekMaMut`,
     },
   },
   plugins: [
